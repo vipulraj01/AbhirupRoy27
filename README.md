@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning Python & HTML
+- 🌱 I’m currently learning DSA
 - 💬 Ask me about **Python**
 
 - 📫 You can reach me at **abhiruproyofficial@gmail.com**
