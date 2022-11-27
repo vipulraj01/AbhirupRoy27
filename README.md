@@ -67,7 +67,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abhirup-roy-60ab95225/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/vipul01122"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Abhirup81789448?s=20&t=vPEAXRbG6CmWZR6lsicoBA"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_vip_raz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = /></a>
 
